@@ -28,7 +28,7 @@ Transfer-Encoding: chunked
 ```
 <p align='left'><strong><code>return Python == <3</code></strong></p>
 
-<h2 align="center">LeetCode and Python Badge Info</h2>  
+<h2 align="center">Problem Solving</h2>  
 <p align="center">
   <!-- LeetCode 50 Days Badge -->
   <a href="https://leetcode.com/hail50/" target="_blank">
