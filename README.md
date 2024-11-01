@@ -168,6 +168,9 @@ Transfer-Encoding: chunked
 ---
 
  <h2 align="center">⚡ Current Stats ⚡</h2>
+
+[![An image of @sohailshk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohailshk)](https://holopin.io/@sohailshk)
+ 
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=sohailshk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
