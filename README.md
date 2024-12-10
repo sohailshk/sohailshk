@@ -98,13 +98,11 @@ Transfer-Encoding: chunked
         <img src="https://img.shields.io/badge/django-0d1117.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
         <img src="https://img.shields.io/badge/flask-0d1117.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
         <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-        <img src="https://img.shields.io/badge/fastapi-0d1117.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
       </td>
     </tr>
     <tr>
       <td>UI & Styling</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/chakra-151b23.svg?style=for-the-badge&logo=chakraui" alt="Chakra UI">
         <img src="https://img.shields.io/badge/tailwindcss-151b23.svg?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
         <img src="https://img.shields.io/badge/bootstrap-151b23.svg?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
       </td>
