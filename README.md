@@ -36,7 +36,7 @@ Transfer-Encoding: chunked
   </a>
   
   <!-- LeetCode 100 Days Badge -->
-  <a href="https://leetcode.com/hail50/" target="_blank">
+  <a href="https://leetcode.com/sohailshk/" target="_blank">
     <img align="center" src="https://github.com/sohailshk/profile_assets/blob/6bcd97e740678f612a4ddbe45a026738b7ca5ffe/assets/Screenshot%202024-10-17%20222435.png" alt="LeetCode 100 Days Badge" height="200" width="200" />
   </a>
   
