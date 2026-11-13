@@ -26,7 +26,7 @@ Transfer-Encoding: chunked
       "Data Structures and Algorithms",
       "Exploring new technologies"
     ],
-    "open_source": "50+ merged fixes in OpenCV, Ultralytics, Drake, Feast and 20+ other projects"
+    "open_source": "50+ merged fixes in 20+ upstream projects"
   }
 }
 ```
