@@ -1,5 +1,27 @@
 <p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
 
+<h3 align="center">🏢 Open-source contributions at</h3>
+
+<!-- big-names:start -->
+<p align="center">
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-5%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 5 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-5%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 5 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-5%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 5 merged pull requests"></a>
+</p>
+<p align="center"><sub>In review</sub></p>
+<p align="center">
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-19%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 19 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Amicrosoft&type=pullrequests"><img src="https://img.shields.io/badge/Microsoft-6%20in%20review-6e7681?style=for-the-badge" alt="Microsoft: 6 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Afacebookresearch+org%3Afacebook+org%3Ameta-llama&type=pullrequests"><img src="https://img.shields.io/badge/Meta-4%20in%20review-6e7681?style=for-the-badge&logo=meta&logoColor=white" alt="Meta: 4 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aapple+org%3Aml-explore&type=pullrequests"><img src="https://img.shields.io/badge/Apple-2%20in%20review-6e7681?style=for-the-badge&logo=apple&logoColor=white" alt="Apple: 2 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aaws+org%3Aawslabs+org%3Aautogluon&type=pullrequests"><img src="https://img.shields.io/badge/Amazon-2%20in%20review-6e7681?style=for-the-badge" alt="Amazon: 2 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-2%20in%20review-6e7681?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 2 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-4%20in%20review-6e7681?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 4 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Apytorch&type=pullrequests"><img src="https://img.shields.io/badge/PyTorch-2%20in%20review-6e7681?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch: 2 pull requests in review"></a>
+</p>
+<!-- big-names:end -->
+
 ```http
 HTTP/1.1 200 OK
 Date: Fri, 13 Nov 2026 5:04:00 GMT
