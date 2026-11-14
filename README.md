@@ -4,21 +4,21 @@
 
 <!-- big-names:start -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-5%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 5 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-7%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 7 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-2%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 2 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-5%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 5 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-5%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 5 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-7%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 7 merged pull requests"></a>
 </p>
 <p align="center"><sub>In review</sub></p>
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-19%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 19 pull requests in review"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Amicrosoft&type=pullrequests"><img src="https://img.shields.io/badge/Microsoft-6%20in%20review-6e7681?style=for-the-badge" alt="Microsoft: 6 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-21%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 21 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Amicrosoft&type=pullrequests"><img src="https://img.shields.io/badge/Microsoft-12%20in%20review-6e7681?style=for-the-badge" alt="Microsoft: 12 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Afacebookresearch+org%3Afacebook+org%3Ameta-llama&type=pullrequests"><img src="https://img.shields.io/badge/Meta-4%20in%20review-6e7681?style=for-the-badge&logo=meta&logoColor=white" alt="Meta: 4 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aapple+org%3Aml-explore&type=pullrequests"><img src="https://img.shields.io/badge/Apple-2%20in%20review-6e7681?style=for-the-badge&logo=apple&logoColor=white" alt="Apple: 2 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aaws+org%3Aawslabs+org%3Aautogluon&type=pullrequests"><img src="https://img.shields.io/badge/Amazon-2%20in%20review-6e7681?style=for-the-badge" alt="Amazon: 2 pull requests in review"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-2%20in%20review-6e7681?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 2 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-4%20in%20review-6e7681?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 4 pull requests in review"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Apytorch&type=pullrequests"><img src="https://img.shields.io/badge/PyTorch-2%20in%20review-6e7681?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch: 2 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Apytorch&type=pullrequests"><img src="https://img.shields.io/badge/PyTorch-3%20in%20review-6e7681?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch: 3 pull requests in review"></a>
 </p>
 <!-- big-names:end -->
 
@@ -65,7 +65,7 @@ Transfer-Encoding: chunked
 
 | Project | Merged | One fix to look at |
 |:--|--:|:--|
-| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->5<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
+| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->7<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->5<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->3<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
@@ -79,11 +79,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
-- [newton-physics/newton#5294](https://github.com/newton-physics/newton/pull/5294) Fold scalar MJCF actuator gear into joint-target drives
-- [feast-dev/feast#7124](https://github.com/feast-dev/feast/pull/7124) fix: Keep entity rows apart in the SQL point-in-time joins
-- [opencv/opencv#30782](https://github.com/opencv/opencv/pull/30782) imgproc: do not read pixels outside a sub-matrix in CLAHE padding
-- [lballabio/QuantLib#3031](https://github.com/lballabio/QuantLib/pull/3031) Don't move explicit stub dates to the end of the month
-- [feast-dev/feast#7142](https://github.com/feast-dev/feast/pull/7142) fix: Use valid Postgres type names for Arrow types in entity dataframe uploads
+- [NVIDIA-NeMo/Automodel#4722](https://github.com/NVIDIA-NeMo/Automodel/pull/4722) fix(datasets): hash named chat templates in the DSpark cache manifest
+- [modelscope/FunASR#3890](https://github.com/modelscope/FunASR/pull/3890) fix(audio): scale int16 numpy waveforms to [-1, 1) in load_audio_text_image_video
+- [modelscope/FunASR#3891](https://github.com/modelscope/FunASR/pull/3891) fix(audio): average the channels of 2-D waveform arrays and tensors
+- [opencv/opencv#30799](https://github.com/opencv/opencv/pull/30799) imgproc: fix edge-aware Bayer demosaicing of non-continuous source or destination
+- [opencv/opencv#30800](https://github.com/opencv/opencv/pull/30800) core: stop cv::sum() wrapping at 32 bits for CV_32S
 <!-- recent-merged:end -->
 
 </details>
