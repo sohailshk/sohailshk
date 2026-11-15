@@ -31,6 +31,10 @@ IN_REVIEW_COLOR = "6e7681"
 BIG_NAMES = [
     # (label, GitHub organizations, simple-icons logo, badge color)
     ("NVIDIA", ["NVIDIA", "NVIDIA-NeMo", "NVlabs", "isaac-sim", "NVIDIA-Omniverse"], "nvidia", "76B900"),
+    ("Linux Foundation", ["feast-dev", "docling-project"], "linuxfoundation", "003778"),
+    # Newton is a Linux Foundation project co-developed by these three labs.
+    ("Newton · Google DeepMind, NVIDIA, Disney Research", ["newton-physics"], "", "5E35B1"),
+    ("Toyota Research Institute", ["RobotLocomotion", "ToyotaResearchInstitute", "TRI-ML"], "toyota", "EB0A1E"),
     ("Google", ["google", "google-deepmind", "google-research", "google-ai-edge", "tensorflow", "keras-team", "jax-ml"], "google", "4285F4"),
     ("Microsoft", ["microsoft"], "", "0078D4"),
     ("Meta", ["facebookresearch", "facebook", "meta-llama"], "meta", "0467DF"),
@@ -42,6 +46,8 @@ BIG_NAMES = [
     ("PyTorch", ["pytorch"], "pytorch", "EE4C2C"),
     ("Apache", ["apache"], "apache", "D22128"),
     ("OpenCV", ["opencv"], "opencv", "5C3EE8"),
+    ("Ultralytics", ["ultralytics"], "ultralytics", "111F68"),
+    ("Roboflow", ["roboflow"], "roboflow", "6706CE"),
 ]
 
 COUNT_RE = re.compile(r"(<!-- n:([\w.-]+/[\w.-]+) -->)\d*(<!-- /n -->)")
