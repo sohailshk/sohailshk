@@ -4,15 +4,15 @@
 
 <!-- big-names:start -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-7%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 7 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-9%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 9 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-2%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 2 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-3%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 3 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-5%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-7%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 7 merged pull requests"></a>
 </p>
 <p align="center"><sub>In review</sub></p>
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-21%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 21 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-27%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 27 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Amicrosoft&type=pullrequests"><img src="https://img.shields.io/badge/Microsoft-12%20in%20review-6e7681?style=for-the-badge" alt="Microsoft: 12 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Afacebookresearch+org%3Afacebook+org%3Ameta-llama&type=pullrequests"><img src="https://img.shields.io/badge/Meta-4%20in%20review-6e7681?style=for-the-badge&logo=meta&logoColor=white" alt="Meta: 4 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aapple+org%3Aml-explore&type=pullrequests"><img src="https://img.shields.io/badge/Apple-2%20in%20review-6e7681?style=for-the-badge&logo=apple&logoColor=white" alt="Apple: 2 pull requests in review"></a>
@@ -79,11 +79,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
-- [NVIDIA-NeMo/Automodel#4722](https://github.com/NVIDIA-NeMo/Automodel/pull/4722) fix(datasets): hash named chat templates in the DSpark cache manifest
-- [modelscope/FunASR#3890](https://github.com/modelscope/FunASR/pull/3890) fix(audio): scale int16 numpy waveforms to [-1, 1) in load_audio_text_image_video
-- [modelscope/FunASR#3891](https://github.com/modelscope/FunASR/pull/3891) fix(audio): average the channels of 2-D waveform arrays and tensors
-- [opencv/opencv#30799](https://github.com/opencv/opencv/pull/30799) imgproc: fix edge-aware Bayer demosaicing of non-continuous source or destination
-- [opencv/opencv#30800](https://github.com/opencv/opencv/pull/30800) core: stop cv::sum() wrapping at 32 bits for CV_32S
+- [pyro-ppl/numpyro#2425](https://github.com/pyro-ppl/numpyro/pull/2425) fix(handlers): accept NumPy integer scalars as the seed of the seed handler
+- [xorbitsai/inference#6119](https://github.com/xorbitsai/inference/pull/6119) fix(api): treat null temperature, top_p, stream, echo and penalties as unset
+- [xorbitsai/inference#6118](https://github.com/xorbitsai/inference/pull/6118) fix(llm): render history of a tool call whose arguments are empty
+- [NVIDIA-NeMo/Automodel#4723](https://github.com/NVIDIA-NeMo/Automodel/pull/4723) fix(peft): let a leading "*." wildcard match top-level modules
+- [NVIDIA-NeMo/Automodel#4735](https://github.com/NVIDIA-NeMo/Automodel/pull/4735) fix(datasets): clamp limit_dataset_samples in column-mapped instruction data
 <!-- recent-merged:end -->
 
 </details>
