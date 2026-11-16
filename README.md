@@ -4,8 +4,8 @@
 
 <!-- big-names:start -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-9%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 9 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-9%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 9 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-10%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 10 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-10%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 10 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anewton-physics&type=pullrequests"><img src="https://img.shields.io/badge/Newton%20%C2%B7%20Google%20DeepMind%2C%20NVIDIA%2C%20Disney%20Research-2%20merged-5E35B1?style=for-the-badge" alt="Newton · Google DeepMind, NVIDIA, Disney Research: 2 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ARobotLocomotion+org%3AToyotaResearchInstitute+org%3ATRI-ML&type=pullrequests"><img src="https://img.shields.io/badge/Toyota%20Research%20Institute-3%20merged-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white" alt="Toyota Research Institute: 3 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
@@ -74,7 +74,7 @@ Transfer-Encoding: chunked
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->5<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->3<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
-| [Feast](https://github.com/feast-dev/feast/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:feast-dev/feast -->7<!-- /n --> | [Point-in-time SQL joins mixed up entity rows](https://github.com/feast-dev/feast/pull/7124) |
+| [Feast](https://github.com/feast-dev/feast/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:feast-dev/feast -->8<!-- /n --> | [Point-in-time SQL joins mixed up entity rows](https://github.com/feast-dev/feast/pull/7124) |
 | [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:apache/beam -->3<!-- /n --> | [RunInference ignored the device for custom inference functions](https://github.com/apache/beam/pull/41086) |
 
 Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, Kornia, Trimesh, Gazebo, Newton and more.
@@ -84,11 +84,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
-- [pyro-ppl/numpyro#2425](https://github.com/pyro-ppl/numpyro/pull/2425) fix(handlers): accept NumPy integer scalars as the seed of the seed handler
-- [xorbitsai/inference#6119](https://github.com/xorbitsai/inference/pull/6119) fix(api): treat null temperature, top_p, stream, echo and penalties as unset
-- [xorbitsai/inference#6118](https://github.com/xorbitsai/inference/pull/6118) fix(llm): render history of a tool call whose arguments are empty
-- [NVIDIA-NeMo/Automodel#4723](https://github.com/NVIDIA-NeMo/Automodel/pull/4723) fix(peft): let a leading "*." wildcard match top-level modules
-- [NVIDIA-NeMo/Automodel#4735](https://github.com/NVIDIA-NeMo/Automodel/pull/4735) fix(datasets): clamp limit_dataset_samples in column-mapped instruction data
+- [feast-dev/feast#7163](https://github.com/feast-dev/feast/pull/7163) fix: Read SQLite online features in batches below the bound-variable limit
+- [lance-format/lance#10939](https://github.com/lance-format/lance/pull/10939) fix(python): use the seed for torch KMeans random initialization
+- [NVIDIA-NeMo/Automodel#4756](https://github.com/NVIDIA-NeMo/Automodel/pull/4756) fix(datasets): honor answer_only_loss_mask=False for generation templates
+- [lance-format/lance#10938](https://github.com/lance-format/lance/pull/10938) fix(python): accept normalized metric names in torch KMeans
+- [lance-format/lance#10929](https://github.com/lance-format/lance/pull/10929) fix(python): respect offset and length in BFloat16Array.to_numpy
 <!-- recent-merged:end -->
 
 </details>
