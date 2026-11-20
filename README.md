@@ -4,7 +4,7 @@
 
 <!-- big-names:start -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-12%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 12 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-13%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 13 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-13%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 13 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anewton-physics&type=pullrequests"><img src="https://img.shields.io/badge/Newton%20%C2%B7%20Google%20DeepMind%2C%20NVIDIA%2C%20Disney%20Research-4%20merged-5E35B1?style=for-the-badge" alt="Newton · Google DeepMind, NVIDIA, Disney Research: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ARobotLocomotion+org%3AToyotaResearchInstitute+org%3ATRI-ML&type=pullrequests"><img src="https://img.shields.io/badge/Toyota%20Research%20Institute-5%20merged-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white" alt="Toyota Research Institute: 5 merged pull requests"></a>
@@ -12,8 +12,8 @@
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aaws+org%3Aawslabs+org%3Aautogluon&type=pullrequests"><img src="https://img.shields.io/badge/Amazon-1%20merged-FF9900?style=for-the-badge" alt="Amazon: 1 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-3%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 3 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-4%20merged-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 4 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-8%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 8 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-9%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 9 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-9%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 9 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-10%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 10 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aultralytics&type=pullrequests"><img src="https://img.shields.io/badge/Ultralytics-4%20merged-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aroboflow&type=pullrequests"><img src="https://img.shields.io/badge/Roboflow-7%20merged-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow: 7 merged pull requests"></a>
 </p>
@@ -70,7 +70,7 @@ Transfer-Encoding: chunked
 
 | Project | Merged | One fix to look at |
 |:--|--:|:--|
-| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->9<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
+| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->10<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->5<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->5<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
@@ -84,11 +84,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
-- [huggingface/speech-to-speech#842](https://github.com/huggingface/speech-to-speech/pull/842) Split streamed LLM text at CJK, Arabic and Devanagari sentence ends
-- [xorbitsai/inference#6120](https://github.com/xorbitsai/inference/pull/6120) fix(embedding): treat a flat token-id input as one token array
-- [lance-format/lance#11200](https://github.com/lance-format/lance/pull/11200) fix(python): respect offset, length and nulls in lance.arrow.cast for FixedSizeListArray
-- [NVIDIA/TensorRT-LLM#22193](https://github.com/NVIDIA/TensorRT-LLM/pull/22193) [#22190][fix] Resolve file:// URIs and special characters in load_image
-- [lance-format/lance#11199](https://github.com/lance-format/lance/pull/11199) fix(python): encode accelerated IVF_PQ dot indexes without residuals
+- [apache/arrow-rs#12259](https://github.com/apache/arrow-rs/pull/12259) fix(arrow-json): write null dictionary values as null in the JSON writer
+- [opencv/opencv#30897](https://github.com/opencv/opencv/pull/30897) core: return early for empty input in minMaxIdx
+- [lballabio/QuantLib#3051](https://github.com/lballabio/QuantLib/pull/3051) Fix Easter, Labour Day and Sunday holidays in the Serbia calendar
+- [lballabio/QuantLib#3050](https://github.com/lballabio/QuantLib/pull/3050) Add All Saints' Day to the Croatia calendar
+- [lballabio/QuantLib#3048](https://github.com/lballabio/QuantLib/pull/3048) Fix weekend days and add missing holidays to the Malta calendar
 <!-- recent-merged:end -->
 
 </details>
