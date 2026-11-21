@@ -14,7 +14,7 @@
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-4%20merged-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Avllm-project&type=pullrequests"><img src="https://img.shields.io/badge/vLLM-1%20merged-30A2FF?style=for-the-badge" alt="vLLM: 1 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-9%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 9 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-10%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 10 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-11%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 11 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aultralytics&type=pullrequests"><img src="https://img.shields.io/badge/Ultralytics-4%20merged-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aroboflow&type=pullrequests"><img src="https://img.shields.io/badge/Roboflow-7%20merged-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow: 7 merged pull requests"></a>
 </p>
@@ -76,7 +76,7 @@ Transfer-Encoding: chunked
 
 | Project | Merged | One fix to look at |
 |:--|--:|:--|
-| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->10<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
+| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->11<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->5<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->5<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
@@ -90,11 +90,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
+- [opencv/opencv#31021](https://github.com/opencv/opencv/pull/31021) imgproc: do not crash in pyrUp on an empty source
 - [NVIDIA/earth2studio#1374](https://github.com/NVIDIA/earth2studio/pull/1374) Fix ISD duplicate rows and cross-year tolerance windows
 - [NVIDIA/earth2studio#1373](https://github.com/NVIDIA/earth2studio/pull/1373) Only return one hour ISD precipitation as tp
 - [NVIDIA/earth2studio#1369](https://github.com/NVIDIA/earth2studio/pull/1369) Convert CFS flux cloud cover from percent to 0-1
 - [modelscope/FunASR#3929](https://github.com/modelscope/FunASR/pull/3929) fix(postprocess): keep a timestamp for symbol tokens in sentence_postprocess
-- [newton-physics/newton#5456](https://github.com/newton-physics/newton/pull/5456) Import MJCF box and ellipsoid geoms that use fromto
 <!-- recent-merged:end -->
 
 </details>
