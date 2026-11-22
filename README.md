@@ -5,7 +5,7 @@
 <!-- big-names:start -->
 <p align="center">
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-16%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 16 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-13%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 13 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-14%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 14 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anewton-physics&type=pullrequests"><img src="https://img.shields.io/badge/Newton%20%C2%B7%20Google%20DeepMind%2C%20NVIDIA%2C%20Disney%20Research-5%20merged-5E35B1?style=for-the-badge" alt="Newton · Google DeepMind, NVIDIA, Disney Research: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ARobotLocomotion+org%3AToyotaResearchInstitute+org%3ATRI-ML&type=pullrequests"><img src="https://img.shields.io/badge/Toyota%20Research%20Institute-5%20merged-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white" alt="Toyota Research Institute: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
@@ -20,7 +20,7 @@
 </p>
 <p align="center"><sub>In review</sub></p>
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-30%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 30 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-32%20in%20review-6e7681?style=for-the-badge&logo=google&logoColor=white" alt="Google: 32 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Amicrosoft&type=pullrequests"><img src="https://img.shields.io/badge/Microsoft-5%20in%20review-6e7681?style=for-the-badge" alt="Microsoft: 5 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Afacebookresearch+org%3Afacebook+org%3Ameta-llama&type=pullrequests"><img src="https://img.shields.io/badge/Meta-6%20in%20review-6e7681?style=for-the-badge&logo=meta&logoColor=white" alt="Meta: 6 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aapple+org%3Aml-explore&type=pullrequests"><img src="https://img.shields.io/badge/Apple-2%20in%20review-6e7681?style=for-the-badge&logo=apple&logoColor=white" alt="Apple: 2 pull requests in review"></a>
@@ -80,7 +80,7 @@ Transfer-Encoding: chunked
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->5<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->5<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
-| [Feast](https://github.com/feast-dev/feast/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:feast-dev/feast -->10<!-- /n --> | [Point-in-time SQL joins mixed up entity rows](https://github.com/feast-dev/feast/pull/7124) |
+| [Feast](https://github.com/feast-dev/feast/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:feast-dev/feast -->11<!-- /n --> | [Point-in-time SQL joins mixed up entity rows](https://github.com/feast-dev/feast/pull/7124) |
 | [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:apache/beam -->5<!-- /n --> | [RunInference ignored the device for custom inference functions](https://github.com/apache/beam/pull/41086) |
 
 Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, Kornia, Trimesh, Gazebo, Newton and more.
@@ -90,11 +90,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
+- [feast-dev/feast#7195](https://github.com/feast-dev/feast/pull/7195) fix: Use valid ClickHouse type names for Arrow types in entity dataframe uploads
+- [python-pillow/Pillow#10582](https://github.com/python-pillow/Pillow/pull/10582) Fix alpha of APNG frames blended with OP_OVER
+- [Farama-Foundation/Gymnasium#1864](https://github.com/Farama-Foundation/Gymnasium/pull/1864) Keep the RecordEpisodeStatistics episode mask intact after a masked reset
+- [mikedh/trimesh#2686](https://github.com/mikedh/trimesh/pull/2686) Fix Trimesh.subdivide with 1D vertex attributes
 - [opencv/opencv#31021](https://github.com/opencv/opencv/pull/31021) imgproc: do not crash in pyrUp on an empty source
-- [NVIDIA/earth2studio#1374](https://github.com/NVIDIA/earth2studio/pull/1374) Fix ISD duplicate rows and cross-year tolerance windows
-- [NVIDIA/earth2studio#1373](https://github.com/NVIDIA/earth2studio/pull/1373) Only return one hour ISD precipitation as tp
-- [NVIDIA/earth2studio#1369](https://github.com/NVIDIA/earth2studio/pull/1369) Convert CFS flux cloud cover from percent to 0-1
-- [modelscope/FunASR#3929](https://github.com/modelscope/FunASR/pull/3929) fix(postprocess): keep a timestamp for symbol tokens in sentence_postprocess
 <!-- recent-merged:end -->
 
 </details>
