@@ -4,7 +4,7 @@
 
 <!-- big-names:start -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-16%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 16 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ANVIDIA+org%3ANVIDIA-NeMo+org%3ANVlabs+org%3Aisaac-sim+org%3ANVIDIA-Omniverse&type=pullrequests"><img src="https://img.shields.io/badge/NVIDIA-18%20merged-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA: 18 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-14%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 14 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anewton-physics&type=pullrequests"><img src="https://img.shields.io/badge/Newton%20%C2%B7%20Google%20DeepMind%2C%20NVIDIA%2C%20Disney%20Research-5%20merged-5E35B1?style=for-the-badge" alt="Newton · Google DeepMind, NVIDIA, Disney Research: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ARobotLocomotion+org%3AToyotaResearchInstitute+org%3ATRI-ML&type=pullrequests"><img src="https://img.shields.io/badge/Toyota%20Research%20Institute-5%20merged-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white" alt="Toyota Research Institute: 5 merged pull requests"></a>
@@ -90,11 +90,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
+- [NVIDIA-NeMo/Automodel#4825](https://github.com/NVIDIA-NeMo/Automodel/pull/4825) fix(datasets): read whole shards when a rank owns one of several nanogpt shards
+- [NVIDIA-NeMo/Automodel#4808](https://github.com/NVIDIA-NeMo/Automodel/pull/4808) fix(datasets): raise when every wam episode is shorter than a window
+- [Farama-Foundation/Gymnasium#1850](https://github.com/Farama-Foundation/Gymnasium/pull/1850) Compare Humanoid COM velocity with a tolerance in test_verify_info_xy_velocity_com
 - [feast-dev/feast#7195](https://github.com/feast-dev/feast/pull/7195) fix: Use valid ClickHouse type names for Arrow types in entity dataframe uploads
 - [python-pillow/Pillow#10582](https://github.com/python-pillow/Pillow/pull/10582) Fix alpha of APNG frames blended with OP_OVER
-- [Farama-Foundation/Gymnasium#1864](https://github.com/Farama-Foundation/Gymnasium/pull/1864) Keep the RecordEpisodeStatistics episode mask intact after a masked reset
-- [mikedh/trimesh#2686](https://github.com/mikedh/trimesh/pull/2686) Fix Trimesh.subdivide with 1D vertex attributes
-- [opencv/opencv#31021](https://github.com/opencv/opencv/pull/31021) imgproc: do not crash in pyrUp on an empty source
 <!-- recent-merged:end -->
 
 </details>
