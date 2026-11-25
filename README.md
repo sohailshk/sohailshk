@@ -8,14 +8,14 @@
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-14%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 14 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anewton-physics&type=pullrequests"><img src="https://img.shields.io/badge/Newton%20%C2%B7%20Google%20DeepMind%2C%20NVIDIA%2C%20Disney%20Research-5%20merged-5E35B1?style=for-the-badge" alt="Newton · Google DeepMind, NVIDIA, Disney Research: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ARobotLocomotion+org%3AToyotaResearchInstitute+org%3ATRI-ML&type=pullrequests"><img src="https://img.shields.io/badge/Toyota%20Research%20Institute-5%20merged-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white" alt="Toyota Research Institute: 5 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-1%20merged-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 1 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-2%20merged-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 2 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aaws+org%3Aawslabs+org%3Aautogluon&type=pullrequests"><img src="https://img.shields.io/badge/Amazon-1%20merged-FF9900?style=for-the-badge" alt="Amazon: 1 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-4%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-5%20merged-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Avllm-project&type=pullrequests"><img src="https://img.shields.io/badge/vLLM-1%20merged-30A2FF?style=for-the-badge" alt="vLLM: 1 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-11%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 11 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-11%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 11 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-12%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 12 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-12%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 12 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aultralytics&type=pullrequests"><img src="https://img.shields.io/badge/Ultralytics-4%20merged-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aroboflow&type=pullrequests"><img src="https://img.shields.io/badge/Roboflow-9%20merged-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow: 9 merged pull requests"></a>
 </p>
@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Amicrosoft&type=pullrequests"><img src="https://img.shields.io/badge/Microsoft-5%20in%20review-6e7681?style=for-the-badge" alt="Microsoft: 5 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Afacebookresearch+org%3Afacebook+org%3Ameta-llama&type=pullrequests"><img src="https://img.shields.io/badge/Meta-6%20in%20review-6e7681?style=for-the-badge&logo=meta&logoColor=white" alt="Meta: 6 pull requests in review"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aapple+org%3Aml-explore&type=pullrequests"><img src="https://img.shields.io/badge/Apple-2%20in%20review-6e7681?style=for-the-badge&logo=apple&logoColor=white" alt="Apple: 2 pull requests in review"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Aapple+org%3Aml-explore&type=pullrequests"><img src="https://img.shields.io/badge/Apple-3%20in%20review-6e7681?style=for-the-badge&logo=apple&logoColor=white" alt="Apple: 3 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Apytorch&type=pullrequests"><img src="https://img.shields.io/badge/PyTorch-5%20in%20review-6e7681?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch: 5 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Anumpy&type=pullrequests"><img src="https://img.shields.io/badge/NumPy-2%20in%20review-6e7681?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy: 2 pull requests in review"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Aopen+author%3Asohailshk+org%3Ascipy&type=pullrequests"><img src="https://img.shields.io/badge/SciPy-2%20in%20review-6e7681?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy: 2 pull requests in review"></a>
@@ -76,12 +76,12 @@ Transfer-Encoding: chunked
 
 | Project | Merged | One fix to look at |
 |:--|--:|:--|
-| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->11<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
+| [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->12<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->7<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->5<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
 | [Feast](https://github.com/feast-dev/feast/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:feast-dev/feast -->11<!-- /n --> | [Point-in-time SQL joins mixed up entity rows](https://github.com/feast-dev/feast/pull/7124) |
-| [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:apache/beam -->7<!-- /n --> | [RunInference ignored the device for custom inference functions](https://github.com/apache/beam/pull/41086) |
+| [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:apache/beam -->8<!-- /n --> | [RunInference ignored the device for custom inference functions](https://github.com/apache/beam/pull/41086) |
 
 Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, Kornia, Trimesh, Gazebo, Newton and more.
 [See every merged PR →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+-user%3Asohailshk&type=pullrequests&s=updated)
@@ -90,11 +90,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
-- [apache/beam#41319](https://github.com/apache/beam/pull/41319) [Python] Fix the proxies of DataFrame groupby describe and skew
-- [Lightning-AI/torchmetrics#3625](https://github.com/Lightning-AI/torchmetrics/pull/3625) Fix binary AUROC returning 0 on MPS for predictions with many distinct values
-- [apache/beam#41455](https://github.com/apache/beam/pull/41455) [Python] Encode date, datetime and timedelta keys deterministically
-- [roboflow/supervision#2970](https://github.com/roboflow/supervision/pull/2970) fix(utils): return empty Pillow image when `crop_image` has no pixels in the box
-- [rerun-io/rerun#13001](https://github.com/rerun-io/rerun/pull/13001) Warn when blueprint view override paths contain wildcards
+- [LostRuins/koboldcpp#2678](https://github.com/LostRuins/koboldcpp/pull/2678) Pass text-only content parts to jinja chat templates as a string
+- [opencv/opencv#30810](https://github.com/opencv/opencv/pull/30810) carotene: fix CV_16U/16S/32S multiply with tiny power-of-two scales and large CV_32S products
+- [apache/beam#41429](https://github.com/apache/beam/pull/41429) [Python] Default MajorityVote tie_breaker to the configured normal_label
+- [psf/black#5727](https://github.com/psf/black/pull/5727) Keep the parentheses of a walrus dict value wrapped in redundant parentheses (preview)
+- [google-deepmind/mujoco#3903](https://github.com/google-deepmind/mujoco/pull/3903) Keep first-stage sensordata in MJX RK4 steps
 <!-- recent-merged:end -->
 
 </details>
