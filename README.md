@@ -8,13 +8,13 @@
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Afeast-dev+org%3Adocling-project&type=pullrequests"><img src="https://img.shields.io/badge/Linux%20Foundation-14%20merged-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation: 14 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anewton-physics&type=pullrequests"><img src="https://img.shields.io/badge/Newton%20%C2%B7%20Google%20DeepMind%2C%20NVIDIA%2C%20Disney%20Research-5%20merged-5E35B1?style=for-the-badge" alt="Newton · Google DeepMind, NVIDIA, Disney Research: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ARobotLocomotion+org%3AToyotaResearchInstitute+org%3ATRI-ML&type=pullrequests"><img src="https://img.shields.io/badge/Toyota%20Research%20Institute-5%20merged-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white" alt="Toyota Research Institute: 5 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-2%20merged-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 2 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Agoogle+org%3Agoogle-deepmind+org%3Agoogle-research+org%3Agoogle-ai-edge+org%3Atensorflow+org%3Akeras-team+org%3Ajax-ml&type=pullrequests"><img src="https://img.shields.io/badge/Google-4%20merged-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aintel+org%3Aopenvinotoolkit+org%3Aopen-edge-platform&type=pullrequests"><img src="https://img.shields.io/badge/Intel-2%20merged-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel: 2 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aaws+org%3Aawslabs+org%3Aautogluon&type=pullrequests"><img src="https://img.shields.io/badge/Amazon-1%20merged-FF9900?style=for-the-badge" alt="Amazon: 1 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-4%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-5%20merged-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 5 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Avllm-project&type=pullrequests"><img src="https://img.shields.io/badge/vLLM-1%20merged-30A2FF?style=for-the-badge" alt="vLLM: 1 merged pull requests"></a>
-  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-12%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 12 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-15%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 15 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-12%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 12 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aultralytics&type=pullrequests"><img src="https://img.shields.io/badge/Ultralytics-4%20merged-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aroboflow&type=pullrequests"><img src="https://img.shields.io/badge/Roboflow-9%20merged-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow: 9 merged pull requests"></a>
@@ -90,11 +90,11 @@ Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, 
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
-- [LostRuins/koboldcpp#2678](https://github.com/LostRuins/koboldcpp/pull/2678) Pass text-only content parts to jinja chat templates as a string
-- [opencv/opencv#30810](https://github.com/opencv/opencv/pull/30810) carotene: fix CV_16U/16S/32S multiply with tiny power-of-two scales and large CV_32S products
-- [apache/beam#41429](https://github.com/apache/beam/pull/41429) [Python] Default MajorityVote tie_breaker to the configured normal_label
-- [psf/black#5727](https://github.com/psf/black/pull/5727) Keep the parentheses of a walrus dict value wrapped in redundant parentheses (preview)
-- [google-deepmind/mujoco#3903](https://github.com/google-deepmind/mujoco/pull/3903) Keep first-stage sensordata in MJX RK4 steps
+- [google/go-github#4733](https://github.com/google/go-github/pull/4733) fix: Escape refs in commit, tag and archive paths
+- [sonos/tract#3544](https://github.com/sonos/tract/pull/3544) onnx/einsum: fix the output rank when only some inputs carry the ellipsis
+- [cvxpy/cvxpy#3607](https://github.com/cvxpy/cvxpy/pull/3607) Fix the dotsort gradient for matrix arguments
+- [apache/iceberg-python#4361](https://github.com/apache/iceberg-python/pull/4361) Pick the latest timestamp in snapshot_as_of_timestamp instead of the last log entry
+- [apache/iceberg-python#4354](https://github.com/apache/iceberg-python/pull/4354) Assign sequential partition field ids when reading v1 metadata without them
 <!-- recent-merged:end -->
 
 </details>
