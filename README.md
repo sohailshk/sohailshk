@@ -13,11 +13,23 @@
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aaws+org%3Aawslabs+org%3Aautogluon&type=pullrequests"><img src="https://img.shields.io/badge/Amazon-1%20merged-FF9900?style=for-the-badge" alt="Amazon: 1 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aalibaba+org%3Amodelscope+org%3AQwenLM&type=pullrequests"><img src="https://img.shields.io/badge/Alibaba-4%20merged-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Alibaba: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Ahuggingface&type=pullrequests"><img src="https://img.shields.io/badge/Hugging%20Face-5%20merged-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face: 5 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Apsf&type=pullrequests"><img src="https://img.shields.io/badge/Python%20Software%20Foundation-1%20merged-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Software Foundation: 1 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aonnx&type=pullrequests"><img src="https://img.shields.io/badge/ONNX-1%20merged-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX: 1 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Admlc&type=pullrequests"><img src="https://img.shields.io/badge/XGBoost-1%20merged-189FDD?style=for-the-badge" alt="XGBoost: 1 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3ALightning-AI&type=pullrequests"><img src="https://img.shields.io/badge/Lightning%20AI-1%20merged-792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning AI: 1 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Atesseract-ocr&type=pullrequests"><img src="https://img.shields.io/badge/Tesseract%20OCR-3%20merged-1E88E5?style=for-the-badge" alt="Tesseract OCR: 3 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Avllm-project&type=pullrequests"><img src="https://img.shields.io/badge/vLLM-1%20merged-30A2FF?style=for-the-badge" alt="vLLM: 1 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aapache&type=pullrequests"><img src="https://img.shields.io/badge/Apache-15%20merged-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache: 15 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aopencv&type=pullrequests"><img src="https://img.shields.io/badge/OpenCV-12%20merged-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV: 12 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aultralytics&type=pullrequests"><img src="https://img.shields.io/badge/Ultralytics-4%20merged-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics: 4 merged pull requests"></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Aroboflow&type=pullrequests"><img src="https://img.shields.io/badge/Roboflow-9%20merged-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow: 9 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Alballabio&type=pullrequests"><img src="https://img.shields.io/badge/QuantLib-11%20merged-2E7D32?style=for-the-badge" alt="QuantLib: 11 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Alance-format&type=pullrequests"><img src="https://img.shields.io/badge/Lance-10%20merged-E2583E?style=for-the-badge" alt="Lance: 10 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3AFarama-Foundation&type=pullrequests"><img src="https://img.shields.io/badge/Farama%20%C2%B7%20Gymnasium-2%20merged-0081A5?style=for-the-badge" alt="Farama · Gymnasium: 2 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Ainfluxdata&type=pullrequests"><img src="https://img.shields.io/badge/InfluxData-3%20merged-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxData: 3 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Agazebosim+org%3Aros-navigation+org%3Aros2+org%3Aros-planning&type=pullrequests"><img src="https://img.shields.io/badge/ROS%20%26%20Gazebo-2%20merged-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS & Gazebo: 2 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Apython-pillow&type=pullrequests"><img src="https://img.shields.io/badge/Pillow-1%20merged-3D7AB3?style=for-the-badge" alt="Pillow: 1 merged pull requests"></a>
+  <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+org%3Anats-io&type=pullrequests"><img src="https://img.shields.io/badge/NATS%20%C2%B7%20CNCF-1%20merged-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS · CNCF: 1 merged pull requests"></a>
 </p>
 <p align="center"><sub>In review</sub></p>
 <p align="center">
@@ -59,7 +71,7 @@ Transfer-Encoding: chunked
       "Data Structures and Algorithms",
       "Exploring new technologies"
     ],
-    "open_source": "130+ merged fixes in 45+ upstream projects"
+    "open_source": "170+ merged fixes in 60+ upstream projects"
   }
 }
 ```
@@ -76,25 +88,36 @@ Transfer-Encoding: chunked
 
 | Project | Merged | One fix to look at |
 |:--|--:|:--|
+| [Hugging Face Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:huggingface/transformers -->1<!-- /n --> | [Falcon let packed sequences attend across each other](https://github.com/huggingface/transformers/pull/50894) |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:rasbt/LLMs-from-scratch -->2<!-- /n --> | [BPE tokenizer round trip lost tabs and some token ids](https://github.com/rasbt/LLMs-from-scratch/pull/1117) |
 | [OpenCV](https://github.com/opencv/opencv/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:opencv/opencv -->12<!-- /n --> | [CLAHE read pixels outside a sub-matrix while padding](https://github.com/opencv/opencv/pull/30782) |
+| [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:tesseract-ocr/tesseract -->3<!-- /n --> | [Recognize crashed when no language was loaded](https://github.com/tesseract-ocr/tesseract/pull/4681) |
+| [Docling](https://github.com/docling-project/docling/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:docling-project/docling -->3<!-- /n --> | [Document images ignored their EXIF orientation](https://github.com/docling-project/docling/pull/5246) |
 | [Ultralytics](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:ultralytics/ultralytics -->4<!-- /n --> | [ONNX models on MPS crashed or drifted from CPU results](https://github.com/ultralytics/ultralytics/pull/27117) |
 | [Supervision](https://github.com/roboflow/supervision/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:roboflow/supervision -->7<!-- /n --> | [YOLO-NAS pose scores were lost as detection confidence](https://github.com/roboflow/supervision/pull/2909) |
+| [Black](https://github.com/psf/black/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:psf/black -->1<!-- /n --> | [Preview style dropped the parentheses of a walrus dict value](https://github.com/psf/black/pull/5727) |
+| [XGBoost](https://github.com/dmlc/xgboost/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:dmlc/xgboost -->1<!-- /n --> | [Query weights broke ndcg when a query had no relevant documents](https://github.com/dmlc/xgboost/pull/12833) |
+| [MuJoCo](https://github.com/google-deepmind/mujoco/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:google-deepmind/mujoco -->3<!-- /n --> | [MJX RK4 steps returned sensor data from the wrong stage](https://github.com/google-deepmind/mujoco/pull/3903) |
+| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:NVIDIA/TensorRT-LLM -->3<!-- /n --> | [load_image failed on file:// URIs and special characters](https://github.com/NVIDIA/TensorRT-LLM/pull/22193) |
 | [Drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:RobotLocomotion/drake -->5<!-- /n --> | [yaml_load shared aliased nodes instead of copying them](https://github.com/RobotLocomotion/drake/pull/25230) |
 | [Feast](https://github.com/feast-dev/feast/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:feast-dev/feast -->11<!-- /n --> | [Point-in-time SQL joins mixed up entity rows](https://github.com/feast-dev/feast/pull/7124) |
 | [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:apache/beam -->8<!-- /n --> | [RunInference ignored the device for custom inference functions](https://github.com/apache/beam/pull/41086) |
+| [QuantLib](https://github.com/lballabio/QuantLib/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:lballabio/QuantLib -->11<!-- /n --> | [Explicit stub dates were moved to the end of the month](https://github.com/lballabio/QuantLib/pull/3031) |
+| [Lance](https://github.com/lance-format/lance/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:lance-format/lance -->10<!-- /n --> | [GPU-built IVF_PQ dot indexes had much lower recall than CPU builds](https://github.com/lance-format/lance/pull/11199) |
+| [NeMo Automodel](https://github.com/NVIDIA-NeMo/Automodel/pulls?q=is%3Apr+is%3Amerged+author%3Asohailshk) | <!-- n:NVIDIA-NeMo/Automodel -->8<!-- /n --> | [Ranks owning one of several nanogpt shards trained on only a slice of it](https://github.com/NVIDIA-NeMo/Automodel/pull/4825) |
 
-Also merged in NVIDIA torch-harmonics, NeMo Automodel, Docling, Rerun, NumPyro, Kornia, Trimesh, Gazebo, Newton and more.
+Also merged in Hugging Face PEFT and timm, ONNX, Pillow, NVIDIA Earth2Studio and torch-harmonics, Gymnasium, Telegraf, FunASR, NATS, Rerun, NumPyro, Kornia, Trimesh, Gazebo, Nav2, GTSAM, Newton and more.
 [See every merged PR →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asohailshk+-user%3Asohailshk&type=pullrequests&s=updated)
 
 <details>
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
+- [rasbt/LLMs-from-scratch#1117](https://github.com/rasbt/LLMs-from-scratch/pull/1117) Fix lossy encode/decode round trip in BPETokenizerSimple (tabs and ids 197/198/201)
 - [google/go-github#4733](https://github.com/google/go-github/pull/4733) fix: Escape refs in commit, tag and archive paths
 - [sonos/tract#3544](https://github.com/sonos/tract/pull/3544) onnx/einsum: fix the output rank when only some inputs carry the ellipsis
 - [cvxpy/cvxpy#3607](https://github.com/cvxpy/cvxpy/pull/3607) Fix the dotsort gradient for matrix arguments
 - [apache/iceberg-python#4361](https://github.com/apache/iceberg-python/pull/4361) Pick the latest timestamp in snapshot_as_of_timestamp instead of the last log entry
-- [apache/iceberg-python#4354](https://github.com/apache/iceberg-python/pull/4354) Assign sequential partition field ids when reading v1 metadata without them
 <!-- recent-merged:end -->
 
 </details>

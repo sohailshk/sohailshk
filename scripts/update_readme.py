@@ -43,6 +43,11 @@ BIG_NAMES = [
     ("Amazon", ["aws", "awslabs", "autogluon"], "", "FF9900"),
     ("Alibaba", ["alibaba", "modelscope", "QwenLM"], "alibabadotcom", "FF6A00"),
     ("Hugging Face", ["huggingface"], "huggingface", "FFD21E"),
+    ("Python Software Foundation", ["psf"], "python", "3776AB"),
+    ("ONNX", ["onnx"], "onnx", "005CED"),
+    ("XGBoost", ["dmlc"], "", "189FDD"),
+    ("Lightning AI", ["Lightning-AI"], "lightning", "792EE5"),
+    ("Tesseract OCR", ["tesseract-ocr"], "", "1E88E5"),
     ("vLLM", ["vllm-project"], "", "30A2FF"),
     ("PyTorch", ["pytorch"], "pytorch", "EE4C2C"),
     ("NumPy", ["numpy"], "numpy", "013243"),
@@ -54,6 +59,13 @@ BIG_NAMES = [
     ("OpenCV", ["opencv"], "opencv", "5C3EE8"),
     ("Ultralytics", ["ultralytics"], "ultralytics", "111F68"),
     ("Roboflow", ["roboflow"], "roboflow", "6706CE"),
+    ("QuantLib", ["lballabio"], "", "2E7D32"),
+    ("Lance", ["lance-format"], "", "E2583E"),
+    ("Farama · Gymnasium", ["Farama-Foundation"], "", "0081A5"),
+    ("InfluxData", ["influxdata"], "influxdb", "22ADF6"),
+    ("ROS & Gazebo", ["gazebosim", "ros-navigation", "ros2", "ros-planning"], "ros", "22314E"),
+    ("Pillow", ["python-pillow"], "", "3D7AB3"),
+    ("NATS · CNCF", ["nats-io"], "natsdotio", "27AAE1"),
 ]
 
 COUNT_RE = re.compile(r"(<!-- n:([\w.-]+/[\w.-]+) -->)\d*(<!-- /n -->)")
