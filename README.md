@@ -113,11 +113,11 @@ Also merged in Hugging Face PEFT and timm, ONNX, Pillow, NVIDIA Earth2Studio and
 <summary><b>Recently merged</b> (updated daily)</summary>
 
 <!-- recent-merged:start -->
+- [cvxpy/cvxpy#3606](https://github.com/cvxpy/cvxpy/pull/3606) Fix sum_largest and cvar canonicalization when the argument has a value
+- [cvxpy/cvxpy#3637](https://github.com/cvxpy/cvxpy/pull/3637) Fix copying gmatmul expressions
+- [cvxpy/cvxpy#3674](https://github.com/cvxpy/cvxpy/pull/3674) Evaluate hstack and concatenate with sparse constants
 - [rasbt/LLMs-from-scratch#1117](https://github.com/rasbt/LLMs-from-scratch/pull/1117) Fix lossy encode/decode round trip in BPETokenizerSimple (tabs and ids 197/198/201)
 - [google/go-github#4733](https://github.com/google/go-github/pull/4733) fix: Escape refs in commit, tag and archive paths
-- [sonos/tract#3544](https://github.com/sonos/tract/pull/3544) onnx/einsum: fix the output rank when only some inputs carry the ellipsis
-- [cvxpy/cvxpy#3607](https://github.com/cvxpy/cvxpy/pull/3607) Fix the dotsort gradient for matrix arguments
-- [apache/iceberg-python#4361](https://github.com/apache/iceberg-python/pull/4361) Pick the latest timestamp in snapshot_as_of_timestamp instead of the last log entry
 <!-- recent-merged:end -->
 
 </details>
